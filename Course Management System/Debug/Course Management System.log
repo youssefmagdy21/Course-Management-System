@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\YoussefMagdy\source\repos\Course Management System\Course Management System\Source.cpp(56,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\YoussefMagdy\source\repos\Course Management System\Course Management System\Source.cpp(56,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\YoussefMagdy\source\repos\Course Management System\Course Management System\Source.cpp(75,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\YoussefMagdy\source\repos\Course Management System\Course Management System\Source.cpp(75,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\YoussefMagdy\source\repos\Course Management System\Course Management System\Source.cpp(87,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\YoussefMagdy\source\repos\Course Management System\Course Management System\Source.cpp(87,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\YoussefMagdy\source\repos\Course Management System\Course Management System\Source.cpp(414,8): warning C4101: 'choice': unreferenced local variable
+C:\Users\YoussefMagdy\source\repos\Course Management System\Course Management System\Source.cpp(772,7): warning C4101: 'choice': unreferenced local variable
+C:\Users\YoussefMagdy\source\repos\Course Management System\Course Management System\Source.cpp(601): warning C4715: 'del_stu': not all control paths return a value
+C:\Users\YoussefMagdy\source\repos\Course Management System\Course Management System\Source.cpp(710): warning C4715: 'edit_stu': not all control paths return a value
+C:\Users\YoussefMagdy\source\repos\Course Management System\Course Management System\Source.cpp(998): warning C4715: 'delete_course': not all control paths return a value
+C:\Users\YoussefMagdy\source\repos\Course Management System\Course Management System\Source.cpp(918): warning C4715: 'edit_course': not all control paths return a value
+  Course Management System.vcxproj -> C:\Users\YoussefMagdy\source\repos\Course Management System\Debug\Course Management System.exe
